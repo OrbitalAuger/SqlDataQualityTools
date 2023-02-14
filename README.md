@@ -1,6 +1,6 @@
 # SqlDataQualityTools
 
-Some data quality T-SQL scripts. Mainly for personal use.
+Some data quality T-SQL scripts. Mainly for personal use and to take use of when transferring between projects.
 
 ## The goal at the moment
 
